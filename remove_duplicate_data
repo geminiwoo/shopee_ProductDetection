@@ -1,0 +1,1 @@
+ls | grep -P "\(1\)\.jpg$" | xargs -d"\n" rm

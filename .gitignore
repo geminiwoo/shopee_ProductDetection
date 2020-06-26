@@ -1,0 +1,7 @@
+/test/*
+/train/*
+test.csv
+train.csv
+*.ipynb
+*.pth
+*.csv
